@@ -1,35 +1,80 @@
-
-<h1 align="center">Hi 👋, I'm Phan Hoài Phong</h1>
-<h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
-
-- 🔭 I’m currently working at [Cat Studio](discord.gg/j9RGkkgvhf)
-
-- 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
-
-- 👨‍💻 All of my projects are available at [github.com/Mangojuices014](https://github.com/Mangojuices014)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **sonlomax123@gmail.com (1-2 days to respond)**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/lmbao.broseidon308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lmbao.broseidon308" height="30" width="40" /></a>
-<a href="https://discord.gg/j9RGkkgvhf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j9RGkkgvhf" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-<h3 align="center">My Stats:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mangojuices014&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
+<div align="center">
+<a href="https://github.com/nguyenkunquan/github-stats#gh-dark-mode-only">
+<img src="https://github.com/nguyenkunquan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/nguyenkunquan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mangojuices014&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/nguyenkunquan/github-stats#gh-light-mode-only">
+<img src="https://github.com/nguyenkunquan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/nguyenkunquan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
+</div>
 
-<h3 align="left">Buy me a Ko-Fi?</h3>
+## My favorite tools and technologies ⚙️
+> Tools and technologies that I have worked with and am interested in
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0PBHBO)
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Postman" />
+        <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+        <br>.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+        <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+        <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://ps.w.org/redis-cache/assets/icon-128x128.gif?rev=2568513" width="48" height="48" alt="Redis" />
+        <br>Redis
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBtaDFudHZkcjVzYnNwbDdjaXMydGZvN3c2MWljODd2d2x6Yzh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v1698cdd3153b47734bb6d9d8688c4490898207543be76b2c5805f109c27c7695/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
+        <br>Firebase
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Dart" />
+        <br>Figma
+    </td>
+  </tr>
+</table>
